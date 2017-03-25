@@ -1,0 +1,12 @@
+! DOS-box colours...
+xterm*background: rgb:ff/ff/ff
+xterm*foreground: rgb:00/00/00
+xterm*font: *-fixed-*-*-*-14-*
+
+
+! right hand side scrollbar...
+xterm*rightScrollBar: true
+xterm*ScrollBar: true
+
+! stop output to terminal from jumping down to bottom of scroll again
+xterm*scrollTtyOutput: false
