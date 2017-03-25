@@ -1,5 +1,5 @@
 ! DOS-box colours...
-xterm*background: rgb:ff/ff/ff
+xterm*background: rgb:69/69/69
 xterm*foreground: rgb:00/00/00
 xterm*font: *-fixed-*-*-*-14-*
 
