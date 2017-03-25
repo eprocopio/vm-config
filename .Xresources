@@ -1,7 +1,10 @@
+! This file contains configuration for X windows
+! Merge to running profile using xrdb .Xresources
+
 ! DOS-box colours...
-xterm*background: rgb:69/69/69
-xterm*foreground: rgb:00/00/00
-xterm*font: *-fixed-*-*-*-14-*
+xterm*background: rgb:ff/ff/ff
+xterm*foreground: rgb:69/69/69
+xterm*font: *-fixed-*-*-*-12-*
 
 
 ! right hand side scrollbar...
